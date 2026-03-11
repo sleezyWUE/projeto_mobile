@@ -1,0 +1,5 @@
+{
+  "name": "FashionStore Mobile",
+  "description": "A responsive mobile-first online store app built with React, Redux, and Axios, featuring category-based product listing and details.",
+  "requestFramePermissions": []
+}
